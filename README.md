@@ -1,1 +1,1 @@
-# simgle-average-mark-of-student-with-grade
+# single-average-mark-of-student-with-grade
